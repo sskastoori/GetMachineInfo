@@ -1,5 +1,5 @@
 # GetMachineInfo
-Powershell Get-Machineinfo Script
+#Powershell Get-Machineinfo Script
 
 Function Get-MachineInfo{
 
